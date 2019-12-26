@@ -1,5 +1,5 @@
 import React from 'react';
-import Ball from './examples/BallChain';
+import Ball from './examples/BallInterpolate';
 
 export default () => {
   return <Ball />;
